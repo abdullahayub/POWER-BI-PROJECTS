@@ -1,6 +1,6 @@
 # POWER-BI-PROJECTS
 
-### HR ANALYTICS DASHBOARD
+### Project1: HR ANALYTICS DASHBOARD
 **Description**
 -	This is the HR Analytics Dashboard POWER BI Project.
 -	In this Project, Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard.
@@ -17,3 +17,6 @@
 -	Understand the data.
 -	Use POWER Query to transform the data by adding custom column and Creating measure with DAX.
 -	After Transforming the data Connect them with Model view.
+
+**Project Video**
+
