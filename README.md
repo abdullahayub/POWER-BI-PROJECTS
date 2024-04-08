@@ -23,6 +23,7 @@
 https://github.com/abdullahayub/POWER-BI-PROJECTS/assets/37545634/681f96ea-0885-4cc1-85fc-c579265133f9
 
 ### Project2: HEALTH CARE DATA ANALYTICS
+**Description**
 - Average Wait Time: Discover how long patients typically wait before their appointments. Uncover patterns and trends that shed light on the efficiency of our healthcare system. 
 - Patient Satisfaction: We'll explore the average satisfaction scores given by our patients. Learn about the factors that contribute to a positive patient experience and how we can enhance it. 
 - Total Patient Visits Monthly: Get an overview of the flow of patients through our doors each month. 
