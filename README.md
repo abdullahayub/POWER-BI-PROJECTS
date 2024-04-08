@@ -37,12 +37,13 @@ https://github.com/abdullahayub/POWER-BI-PROJECTS/assets/37545634/5371aa67-8e69-
 
 ### Project3: HEALTH CARE DATA ANALYTICS
 **Description**
-- Average Wait Time: Discover how long patients typically wait before their appointments. Uncover patterns and trends that shed light on the efficiency of our healthcare system. 
-- Patient Satisfaction: We'll explore the average satisfaction scores given by our patients. Learn about the factors that contribute to a positive patient experience and how we can enhance it. 
-- Total Patient Visits Monthly: Get an overview of the flow of patients through our doors each month. 
-- Administrative vs. Non-Administrative Appointments: 
-- Referrals and Walk-In Patients: How does this impact the overall patient experience? 
-- Patient Visits by Age Group and Race: Explore the distribution of patient visits across different age groups and races.
+In this Project, I analyzed Road Accidents incidents in the UK, find out different key metrics through which we can improve road safety and reduce accidents on the road.
+
+**KPI’s:** Total Current Year Causalities, Total CY Accidents, CY Fatal causalities, CY Serious Causalities, CY Slight Causalities.
+
+**Charts:** CY causalities vs PY causalities monthly trends, CY causalities By Urban/rural, CY causalities by Light Conditions, CY causalities by road type, Causalities by Vehicle Type, and Causalities by location.
+
+**Filters:** Based on road surface and weathers condition
 
 **Project Video**
 
