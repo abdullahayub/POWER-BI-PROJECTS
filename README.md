@@ -33,4 +33,18 @@ https://github.com/abdullahayub/POWER-BI-PROJECTS/assets/37545634/681f96ea-0885-
 
 **Project Video**
 
+https://github.com/abdullahayub/POWER-BI-PROJECTS/assets/37545634/5371aa67-8e69-43d9-9ad5-38c0f936ceef
+
+### Project3: HEALTH CARE DATA ANALYTICS
+**Description**
+- Average Wait Time: Discover how long patients typically wait before their appointments. Uncover patterns and trends that shed light on the efficiency of our healthcare system. 
+- Patient Satisfaction: We'll explore the average satisfaction scores given by our patients. Learn about the factors that contribute to a positive patient experience and how we can enhance it. 
+- Total Patient Visits Monthly: Get an overview of the flow of patients through our doors each month. 
+- Administrative vs. Non-Administrative Appointments: 
+- Referrals and Walk-In Patients: How does this impact the overall patient experience? 
+- Patient Visits by Age Group and Race: Explore the distribution of patient visits across different age groups and races.
+
+**Project Video**
+
+
 
